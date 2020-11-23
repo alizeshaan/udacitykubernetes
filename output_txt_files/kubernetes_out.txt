@@ -1,0 +1,9 @@
+Zeshaan@DESKTOP-K93214A MINGW64 ~/Documents/Udacity/Project4_CircleCi_Docker/DevOps_Microservices/project-ml-microservice-kubernetes (master)
+$ ./run_kubernetes.sh
+error: failed to create deployment: deployments.apps "udacitydeployment" already exists
+NAME                                 READY   STATUS    RESTARTS   AGE
+udacitydeployment-6f4db8d8b6-jgsc9   1/1     Running   0          17s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+
