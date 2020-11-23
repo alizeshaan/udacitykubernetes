@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![alizeshaan](https://circleci.com/gh/alizeshaan/udacitykubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/alizeshaan/udacitykubernetes/7/workflows/7f279b21-5bd3-40e8-9ce7-5630d2fd5638/jobs/7/steps)
+
 
 ## Project Overview
 
